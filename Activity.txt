@@ -1,7 +1,3 @@
 first edit by Liah
 second edit by anjhillian
-<<<<<<< HEAD
-new update by liah
-=======
-Updated file
->>>>>>> 4c1b16906c46086c5be72e32f39815b1263d9672
+--liah
